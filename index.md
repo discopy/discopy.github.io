@@ -18,6 +18,8 @@ To learn more, we suggest to start with [the documentation](https://discopy.read
 
 DisCopy is a non-profit organisation registered under the French law of 1901 (RNA W751267560), it develops the software of the same name.
 
-- [Giovanni de Felice](https://www.cs.ox.ac.uk/people/giovanni.defelice/) (President)
-- [Alexis Toumi](https://alexis.toumi.xyz/) (Secretary)
-- [Richie Yeung](https://hk.linkedin.com/in/richie-yeung) (Treasurer)
+[Giovanni de Felice](https://www.cs.ox.ac.uk/people/giovanni.defelice/) (President)
+
+[Alexis Toumi](https://alexis.toumi.xyz/) (Secretary)
+
+[Richie Yeung](https://hk.linkedin.com/in/richie-yeung) (Treasurer)
