@@ -3,26 +3,19 @@ layout: default
 title: DisCoPy
 ---
 
-DisCopy is a non-profit organisation registered under the French law of 1901 (RNA W751267560).
-
-# What we believe
+DisCopy is a non-profit organisation registered under the French law of 1901 (RNA W751267560), it develops the software of the same name.
 
 [Category theory](https://en.wikipedia.org/wiki/Category_theory) is meant to become the linear algebra of the 21st century.
 When [string diagrams](https://en.wikipedia.org/wiki/String_diagram) become as ubiquitous as matrices, they will need their own fundamental package: **DisCoPy**.
 
-# What is DisCoPy?
-
 DisCoPy is [free software](https://en.wikipedia.org/wiki/Free_software),
 its source code is open and hosted on [GitHub](https://github.com/oxford-quantum-group/discopy).
-To learn more about DisCoPy, we suggest you start with [the documentation](https://discopy.readthedocs.io).
+To learn more, we suggest to start with [the documentation](https://discopy.readthedocs.io).
 
-You can also read the academic papers that introduce DisCoPy:
+# About us
 
-- G. de Felice, A. Toumi & B. Coecke, _DisCoPy: Monoidal Categories in Python_, [DOI:10.4204/EPTCS.333.13](https://doi.org/10.4204/EPTCS.333.13)
-- A. Toumi, G. de Felice & R. Yeung, _DisCoPy for the quantum computer scientist_, [arXiv:2205.05190](https://arxiv.org/abs/2205.05190)
+**President:** [Giovanni de Felice](https://www.cs.ox.ac.uk/people/giovanni.defelice/)
 
-# Who we are
+**Secretary:** [Alexis Toumi](https://alexis.toumi.xyz/)
 
-* **President:** [Giovanni de Felice](https://www.cs.ox.ac.uk/people/giovanni.defelice/)
-* **Secretary:** [Alexis Toumi](https://alexis.toumi.xyz/)
-* **Treasurer:** [Richie Yeung](https://hk.linkedin.com/in/richie-yeung)
+**Treasurer:** [Richie Yeung](https://hk.linkedin.com/in/richie-yeung)
