@@ -23,3 +23,5 @@ DisCopy is a non-profit organisation registered under the French law of 1901 (RN
 [Alexis Toumi](https://alexis.toumi.xyz/) (Secretary)
 
 [Richie Yeung](https://hk.linkedin.com/in/richie-yeung) (Treasurer)
+
+[Bob Coecke](https://en.wikipedia.org/wiki/Bob_Coecke) (Honorary President)
