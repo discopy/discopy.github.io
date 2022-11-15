@@ -16,7 +16,7 @@ To learn more, we suggest to start with [the documentation](https://discopy.read
 
 ## Who?
 
-DisCopy is a non-profit organisation registered under the French law of 1901 (RNA W751267560), it develops the software of the same name.
+DisCopy is a non-profit organisation registered under the French law of 1901 [RNA W751267560](https://www.journal-officiel.gouv.fr/pages/associations-detail-annonce/?q.id=id:202200461445), it develops the software of the same name.
 
 [Giovanni de Felice](https://www.cs.ox.ac.uk/people/giovanni.defelice/) (President)
 
