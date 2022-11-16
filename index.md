@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# DisCoPy
+
 ## Why?
 
 [Applied category theory](https://en.wikipedia.org/wiki/Applied_category_theory) is meant to become the linear algebra of the 21st century.
