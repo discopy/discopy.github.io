@@ -3,6 +3,32 @@
 
 @import "{{ site.theme }}";
 
-header h1 {
+body, h2 {
+    background: none;
+    background-color: black;
+    text-shadow: none;
+    color: white;
+}
+
+#container {
+    background: none;
+}
+
+header h1, a {
     font-family: sans-serif;
+    color: orange;
+}
+
+hr {
+    background-color: orange;
+    height: 1px;
+    padding-bottom: 0;
+}
+
+ul {
+    margin-left: 42px;
+}
+
+footer {
+    display: none;
 }
