@@ -1,19 +1,30 @@
 ---
 layout: default
 title: DisCoPy
-description: The Python toolkit for computing with string diagrams
+description: computing with string diagrams
 ---
 
 ## Why?
 
-[Applied category theory](https://en.wikipedia.org/wiki/Applied_category_theory) is meant to become the linear algebra of the 21st century.
-When [string diagrams](https://en.wikipedia.org/wiki/String_diagram) will be as ubiquitous as matrices, they will need their own fundamental package: **DisCoPy**.
+[Applied category theory](https://en.wikipedia.org/wiki/Applied_category_theory) is information plumbing. It's boring... but *plumbers save more lives than doctors*.
 
-## How?
+Once [string diagrams](https://en.wikipedia.org/wiki/String_diagram) become as ubiquitous as matrices, they will need their own fundamental package: *DisCoPy*.
+
+## What?
 
 DisCoPy is [free software](https://en.wikipedia.org/wiki/Free_software),
 its source code is open and hosted on [GitHub](https://github.com/oxford-quantum-group/discopy).
 To learn more, we suggest to start with [the documentation](https://discopy.readthedocs.io).
+
+## How?
+
+DisCoPy began as an implementation of:
+
+- [DisCoCat](https://en.wikipedia.org/wiki/DisCoCat) (distributional compositional categorical) models,
+- and [QNLP](https://en.wikipedia.org/wiki/Quantum_natural_language_processing) (quantum natural language processing).
+
+This application has now been packaged into its own library, [lambeq](https://cqcl.github.io/lambeq/).
+
 
 ## Who?
 
