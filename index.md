@@ -4,17 +4,17 @@ title: DisCoPy
 description: computing with string diagrams
 ---
 
-## Why?
-
-[Applied category theory](https://en.wikipedia.org/wiki/Applied_category_theory) is information plumbing. It's boring... but *plumbers save more lives than doctors*.
-
-Once [string diagrams](https://en.wikipedia.org/wiki/String_diagram) become as ubiquitous as matrices, they will need their own fundamental package: *DisCoPy*.
-
 ## What?
 
 DisCoPy is [free software](https://en.wikipedia.org/wiki/Free_software),
 its source code is open and hosted on [GitHub](https://github.com/oxford-quantum-group/discopy).
 To learn more, we suggest to start with [the documentation](https://discopy.readthedocs.io).
+
+## Why?
+
+[Applied category theory](https://en.wikipedia.org/wiki/Applied_category_theory) is information plumbing. It's boring... but *plumbers save more lives than doctors*.
+
+Once [string diagrams](https://en.wikipedia.org/wiki/String_diagram) become as ubiquitous as matrices, they will need their own fundamental package: *DisCoPy*.
 
 ## How?
 
