@@ -1,7 +1,5 @@
 ---
 layout: default
-title: DisCoPy
-description: The Python toolkit for computing with string diagrams
 ---
 
 ## Why?
@@ -21,7 +19,3 @@ To learn more, we suggest to start with [the documentation](https://discopy.read
 * [Alexis Toumi](https://alexis.toumi.xyz/) (Secretary)
 * [Richie Yeung](https://hk.linkedin.com/in/richie-yeung) (Treasurer)
 * [Bob Coecke](https://en.wikipedia.org/wiki/Bob_Coecke) (Honorary President)
-
----
-
-DisCopy is a non-profit organisation registered under the French law of 1901 [RNA W751267560](https://www.journal-officiel.gouv.fr/pages/associations-detail-annonce/?q.id=id:202200461445), it develops the software of the same name.

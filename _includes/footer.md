@@ -1,0 +1,1 @@
+DisCopy is a non-profit organisation registered under the French law of 1901 [RNA W751267560](https://www.journal-officiel.gouv.fr/pages/associations-detail-annonce/?q.id=id:202200461445), it develops the software of the same name.

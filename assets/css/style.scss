@@ -3,18 +3,15 @@
 
 @import "{{ site.theme }}";
 
-body, h2 {
+#container, body, h2, footer {
     background: none;
     background-color: black;
     text-shadow: none;
     color: white;
+    font-size: 100%;
 }
 
-#container {
-    background: none;
-}
-
-header h1, a {
+h1, header h1, a, footer a, strong {
     font-family: sans-serif;
     color: orange;
 }
@@ -23,12 +20,14 @@ hr {
     background-color: orange;
     height: 1px;
     padding-bottom: 0;
+    margin-bottom: 21px;
+    margin-top: 21px;
 }
 
-ul {
+ul, ol {
     margin-left: 42px;
 }
 
 footer {
-    display: none;
+    margin-top: 0;
 }
