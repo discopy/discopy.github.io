@@ -1,6 +1,7 @@
 ---
 layout: default
 title: DisCoPy
+description: The Python toolkit for computing with string diagrams
 ---
 
 ## Why?
