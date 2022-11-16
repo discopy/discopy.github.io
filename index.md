@@ -1,8 +1,7 @@
 ---
 layout: default
+title: DisCoPy
 ---
-
-# DisCoPy
 
 ## Why?
 
