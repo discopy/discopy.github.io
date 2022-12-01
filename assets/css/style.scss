@@ -5,9 +5,7 @@
 
 #container, body, h2, footer, p {
     background: none;
-    background-color: black;
     text-shadow: none;
-    color: white;
     font-size: 100%;
     font-weight: 300;
 }
@@ -19,12 +17,12 @@ h2 {
 
 h1, header h1, a, footer a, p a {
     font-family: sans-serif;
-    font-weight: 400;
-    color: orange;
+    font-weight: 500;
+    color: darkorange;
 }
 
 hr {
-    background-color: orange;
+    background-color: darkorange;
     height: 1px;
     padding-bottom: 0;
     margin-bottom: 21px;
@@ -39,6 +37,7 @@ footer {
     margin-top: 0;
 }
 
-footer a:hover {
-    color:#c5000c
+#main_content a:hover, footer a:hover {
+    color: darkorange;
+    text-decoration: underline;
 }
