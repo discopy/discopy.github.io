@@ -8,7 +8,7 @@ description: computing with string diagrams
 
 DisCoPy is [free software](https://en.wikipedia.org/wiki/Free_software),
 its source code is open and hosted on [GitHub](https://github.com/oxford-quantum-group/discopy).
-To learn more, we suggest to start with [the documentation](https://discopy.readthedocs.io).
+To learn more, we suggest to start with [the documentation](https://docs.discopy.org).
 
 ## Why?
 
