@@ -32,3 +32,5 @@ This application has now been packaged into its own library, [lambeq](https://cq
 * [Alexis Toumi](https://alexis.toumi.xyz/) (Secretary)
 * [Richie Yeung](https://hk.linkedin.com/in/richie-yeung) (Treasurer)
 * [Bob Coecke](https://en.wikipedia.org/wiki/Bob_Coecke) (Honorary President)
+
+Want to contribute or just ask us a question? Get in touch on [Discord](/discord)!
