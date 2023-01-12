@@ -7,8 +7,8 @@ description: computing with string diagrams
 ## What?
 
 DisCoPy is [free software](https://en.wikipedia.org/wiki/Free_software),
-its source code is open and hosted on [GitHub](https://github.com/oxford-quantum-group/discopy).
-To learn more, we suggest to start with [the documentation](https://discopy.readthedocs.io).
+its source code is open and hosted on [GitHub](https://github.com/discopy/discopy).
+To learn more, we suggest to start with [the documentation](https://docs.discopy.org).
 
 ## Why?
 
@@ -28,7 +28,7 @@ This application has now been packaged into its own library, [lambeq](https://cq
 
 ## Who?
 
-* [Giovanni de Felice](https://www.cs.ox.ac.uk/people/giovanni.defelice/) (President)
+* [Giovanni de Felice](https://giovanni.defelice.xyz) (President)
 * [Alexis Toumi](https://alexis.toumi.xyz/) (Secretary)
 * [Richie Yeung](https://hk.linkedin.com/in/richie-yeung) (Treasurer)
 * [Bob Coecke](https://en.wikipedia.org/wiki/Bob_Coecke) (Honorary President)
