@@ -6,8 +6,8 @@ description: computing with string diagrams
 
 ## What?
 
-DisCoPy is [free software](https://en.wikipedia.org/wiki/Free_software),
-its source code is open and hosted on [GitHub](https://github.com/discopy/discopy).
+DisCoPy is a Python toolkit for computing with string diagrams. 
+It is free software hosted on [GitHub](https://github.com/discopy/discopy).
 To learn more, we suggest to start with [the documentation](https://docs.discopy.org).
 
 ## Why?
