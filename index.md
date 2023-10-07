@@ -13,7 +13,7 @@ DisCoPy is a Python toolkit for computing with [string diagrams](https://en.wiki
 
 [Applied category theory](https://en.wikipedia.org/wiki/Applied_category_theory) is information plumbing. It's boring... but *plumbers save more lives than doctors*.
 
-Once string diagrams become as ubiquitous as matrices, they need their own fundamental package: *DisCoPy*.
+As string diagrams become as ubiquitous as matrices, they need their own fundamental package: *DisCoPy*.
 
 ## How?
 
