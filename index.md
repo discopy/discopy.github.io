@@ -6,8 +6,8 @@ description: computing with string diagrams
 
 DisCoPy is a Python toolkit for computing with [string diagrams](https://en.wikipedia.org/wiki/String_diagram). 
 
-- https://docs.discopy.org
-- https://github.com/discopy/discopy
+- Documentation: [https://docs.discopy.org](https://docs.discopy.org)
+- Repository: [https://github.com/discopy/discopy)(https://github.com/discopy/discopy)
 
 ## Why?
 
