@@ -27,10 +27,10 @@ This application has now been packaged into its own library, [lambeq](https://cq
 
 ## Who?
 
-* [Giovanni de Felice](https://giovanni.defelice.xyz) (President)
-* [Alexis Toumi](https://alexis.toumi.xyz/) (Secretary)
-* [Richie Yeung](https://hk.linkedin.com/in/richie-yeung) (Treasurer)
-* [Boldizsár Poór](https://github.com/boldar99) (Head of PRs)
+* [Giovanni de Felice](https://giovanni.defelice.xyz) (CEO)
+* [Alexis Toumi](https://alexis.toumi.xyz/) (COO)
+* [Richie Yeung](https://hk.linkedin.com/in/richie-yeung) (CFO)
+* [Boldizsár Poór](https://github.com/boldar99) (CTO)
 * [Bob Coecke](https://en.wikipedia.org/wiki/Bob_Coecke) (Honorary President)
 
 Want to contribute or just ask us a question? Get in touch on [Discord](/discord)!
