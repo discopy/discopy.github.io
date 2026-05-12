@@ -22,7 +22,7 @@ DisCoPy began as an implementation of:
 - [DisCoCat](https://en.wikipedia.org/wiki/DisCoCat) (distributional compositional categorical) models,
 - and [QNLP](https://en.wikipedia.org/wiki/Quantum_natural_language_processing) (quantum natural language processing).
 
-This application has now been packaged into its own library, [lambeq](https://cqcl.github.io/lambeq/).
+This application has now been packaged into its own library, [lambeq](https://github.com/Quantinuum/lambeq).
 
 
 ## Who?
